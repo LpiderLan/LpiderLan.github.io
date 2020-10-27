@@ -1,2 +1,2 @@
 # LpiderLan.github.io
-selfinformation
+self information
